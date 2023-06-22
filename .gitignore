@@ -1,0 +1,6 @@
+node_modules/
+ai1wm-backups/
+.DS_Store
+.htaccess
+local-xdebuginfo.php
+wp-config-sample.php
